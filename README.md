@@ -10,4 +10,4 @@
 
 ![Navanath's github stats](https://github-readme-stats.vercel.app/api?username=imnavanath&include_all_commits=true&show_icons=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imnavanath&layout=compact&hide=html)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imnavanath&layout=compact&hide=html)
