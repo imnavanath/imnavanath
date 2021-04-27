@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Navanath!
+<h1 align="left"> Hi there 👋 I'm Navanath! </h1>
 
-I'm extremely passionate about learning & developing new things 🚀, user-focused UIs 😍 WordPress applications 💻 by considering the best & latest technology.
+<h3 align="left"> I'm extremely passionate about learning & developing new things 🚀, user-focused UIs 😍 WordPress applications 💻 by considering the best & latest technology. </h3>
 
 - 🔭 I’m currently working on **HTML, CSS, JavaScript, jQuery, React-JS**
 - 🌱 I’m currently learning **React-JS**
