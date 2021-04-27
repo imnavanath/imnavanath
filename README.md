@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Navanath!
 
-<!--
-**imnavanath/imnavanath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm extremely passionate about learning & developing new things 🚀, user-focused UIs 😍 WordPress applications 💻 by considering the best & latest technology.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **HTML, CSS, JavaScript, jQuery, React-JS**
+- 🌱 I’m currently learning **React-JS**
+- 💬 Ask me anything about **HTML, CSS, JS, WordPress Development**
+- 📫 How to reach me: **navanath.bhosale95@gmail.com**
+- ⚡ Fun fact: **I'm very fond of music.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Navanath's github stats](https://github-readme-stats.vercel.app/api?username=imnavanath&include_all_commits=true&show_icons=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imnavanath&layout=compact&hide=html)]
