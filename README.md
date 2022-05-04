@@ -1,14 +1,18 @@
 <h1 align="left"> Hi there 👋 I'm Navanath! </h1>
 
-<h3 align="left"> I'm extremely passionate about learning & developing new things 🚀, user-focused UIs 😍 WordPress applications 💻 by considering the best & latest technology. </h3>
+<h3 align="left"> I'm extremely passionate about learning & developing new things 🚀 user-focused UIs 😍 WordPress applications 💻 by considering the best & latest technology. </h3>
 
 <br />
 
-- 🔭 I’m currently working on **HTML, CSS, JavaScript, jQuery, React-JS**
-- 🌱 I’m currently learning **React-JS**
-- 💬 Ask me anything about **HTML, CSS, JS, WordPress Development**
-- 📫 How to reach me: **navanath.bhosale95@gmail.com**
-- ⚡ Fun fact: **I'm very fond of music.**
+🔭 Currently working on **HTML, CSS, JavaScript, jQuery, React-JS**
+<br />
+🌱 Improving proficiency in **React-JS**
+<br />
+💬 Ask me anything about **HTML, CSS, JS, WordPress Development**
+<br />
+📫 How to reach me: **navanath.bhosale95@gmail.com**
+<br />
+⚡ Fun fact: **I'm very fond of music.**
 
 <br />
 
