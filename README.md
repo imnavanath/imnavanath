@@ -45,8 +45,8 @@
 <br/>
   
 <a href="javascript:void(0)"><img alt="Navanath's Trophies" style="width:100%" src="https://github-profile-trophy.vercel.app/?username=imnavanath" /></a>
-<a href="javascript:void(0)"><img alt="Navanath's GitHub stats" style="width:55%" src="https://github-readme-stats.vercel.app/api?username=imnavanath&include_all_commits=true&show_icons=true" /></a>
-<a href="javascript:void(0)"><img alt="Navanath's Top Languages" style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnavanath&layout=compact&hide=html" /></a>
+<a href="javascript:void(0)"><img alt="Navanath's GitHub stats" style="width:53%" src="https://github-readme-stats.vercel.app/api?username=imnavanath&include_all_commits=true&show_icons=true" /></a>
+<a href="javascript:void(0)"><img alt="Navanath's Top Languages" style="width:44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnavanath&layout=compact&hide=html" /></a>
 <br/>
 
 
