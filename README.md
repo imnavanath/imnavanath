@@ -48,8 +48,6 @@
 <a href="javascript:void(0)"><img alt="Navanath's GitHub stats" style="width:55%" src="https://github-readme-stats.vercel.app/api?username=imnavanath&include_all_commits=true&show_icons=true" /></a>
 <a href="javascript:void(0)"><img alt="Navanath's Top Languages" style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnavanath&layout=compact&hide=html" /></a>
 <br/>
-<a href="javascript:void(0)"><img alt="Navanath's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imnavanath" /></a>
-<br/>
 
 
 [website]: https://imnavanath.github.io/
